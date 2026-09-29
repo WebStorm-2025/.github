@@ -1,15 +1,7 @@
 
 # WebStorm – Professional JavaScript IDE by JetBrains
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="WebStorm Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://webstorm-2025.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_WebStorm-blue?style=for-the-badge&logo=jetbrains" alt="Get WebStorm"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://sharonleex668.github.io/.github/WebStorm-2025)
 
 ---
 
